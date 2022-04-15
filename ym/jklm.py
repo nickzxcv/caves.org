@@ -1,4 +1,7 @@
 #!/usr/bin/env python
+
+# written by Will Urbanski ???
+
 import requests
 import random
 import sys
